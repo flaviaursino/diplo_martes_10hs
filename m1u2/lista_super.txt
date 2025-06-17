@@ -4,3 +4,7 @@ pan
 caramelos
 golosinas
 verduras
+
+pan
+frutas
+etc
